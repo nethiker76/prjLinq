@@ -77,9 +77,9 @@ C:\MVC\ch05\prjLinq\prjLinq\bin\zh-Hant\System.Web.Mvc.resources.dll
 C:\MVC\ch05\prjLinq\prjLinq\obj\Debug\prjLinq.csproj.CopyComplete
 C:\MVC\ch05\prjLinq\prjLinq\obj\Debug\prjLinq.dll
 C:\MVC\ch05\prjLinq\prjLinq\obj\Debug\prjLinq.pdb
-C:\MVC\ch05\prjLinq\prjLinq\obj\Debug\prjLinq.csprojAssemblyReference.cache
 C:\MVC\ch05\prjLinq\prjLinq\bin\PagedList.dll
 C:\MVC\ch05\prjLinq\prjLinq\bin\PagedList.Mvc.dll
 C:\MVC\ch05\prjLinq\prjLinq\bin\PagedList.xml
 C:\MVC\ch05\prjLinq\prjLinq\bin\PagedList.Mvc.xml
 C:\MVC\ch05\prjLinq\prjLinq\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\MVC\ch05\prjLinq\prjLinq\obj\Debug\prjLinq.csprojAssemblyReference.cache

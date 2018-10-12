@@ -153,6 +153,8 @@
     <Compile Include="Models\Employees.cs">
       <DependentUpon>NorthwindModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\GroupViewModels.cs" />
+    <Compile Include="Models\LoginViewModels.cs" />
     <Compile Include="Models\NorthwindModel.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -181,6 +183,7 @@
     <Compile Include="Models\Region.cs">
       <DependentUpon>NorthwindModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\RegisterViewModels.cs" />
     <Compile Include="Models\Shippers.cs">
       <DependentUpon>NorthwindModel.tt</DependentUpon>
     </Compile>
@@ -218,6 +221,9 @@
     <Content Include="Views\Default\delete.cshtml" />
     <Content Include="Views\Default\create.cshtml" />
     <Content Include="Views\Default\Edit.cshtml" />
+    <Content Include="Views\Default\Combine.cshtml" />
+    <Content Include="Views\Default\Login.cshtml" />
+    <Content Include="Views\Default\Register.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
